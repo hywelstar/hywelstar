@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F76436&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+HywelStar!;" />
 </h1>
 
- - 😄   Hi, 大家好！我是HywelStar! ⚡ 在这里分享嵌入式系统、Linux 驱动程序、Android 底层开发、SoC 启动和音频/视频技术方面知识！ <br /> 
+ - 😄   Hi, 大家好！我是HywelStar! ⚡ 分享嵌入式: Linux 驱动程序、Android 底层开发、SoC Bring up 和音频/视频方面知识！ <br /> 
 ------
 - 🔭 I’m currently working on embedded software development.
 - 🌱 I’m constantly learning and sharing my knowledge in embedded systems, Linux drivers, Android low-level development, SoC bring-up, and audio/video technologies.
