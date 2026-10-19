@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on embedded software development.
 - 🌱 I’m constantly learning and sharing my knowledge in embedded systems, Linux drivers, Android low-level development, SoC bring-up, and audio/video technologies.
 - 📝 I regularly write articles and share my insights on [CSDN Blog](https://blog.csdn.net/zalebool) or here.
+- 🌐 Website: [hywelstar.com](https://www.hywelstar.com/) — my personal site and technical knowledge base.
 - 📢 Follow my WeChat Official Account: [码思途远](https://mp.weixin.qq.com/s?__biz=MzIyMzg2MjY3Mw==&mid=2247484484&idx=1&sn=e4a124292d6c0616725c417b80b84c35&chksm=e8168ebadf6107ac4f788a409f11289d8b3370f76f1af853339350ffb15e7ce7824ccaba80a4&token=1767720086&lang=zh_CN#rd)
 
 <details>
